@@ -5,6 +5,7 @@ An introductory assignment for Computer Science 25. Your task is simple, you wil
 - Review how to insert images into HTML.
 - Review how to add links to HTML pages.
 - Review the basic styling of CSS on HTML documents.
+- Hello World
 
 This is a very simple introductory assignment that has the intention of teaching some of the basics of Visual Studio Code, Github, and HTML.
 
