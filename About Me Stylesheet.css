@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-family: 'Fantasy', cursive;
+    font-size: 50px;
+    color: orange;
+    text-align: center;
+    margin-top: 25px;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: yellow;
+    text-align: center;
+}
+p.title {
+    font-family: 'Fantasy', cursive;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: -40px;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: -3px;
+}
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: white;
+}
+alt {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: white;
+}
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: yellow;
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 20px;
+}
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: yellow;
+}
